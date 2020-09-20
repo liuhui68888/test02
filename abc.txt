@@ -6,3 +6,4 @@ hello test
 hello java
 hello it
 hello you
+你好
